@@ -1,0 +1,17 @@
+.hour{
+/*   margin: 0;
+ */  text-align: center;
+  
+
+}
+
+.para{
+  word-spacing: 25px;
+  color: grey;
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.title{
+  letter-spacing: 18px;
+  font-size: 40px;
+}
